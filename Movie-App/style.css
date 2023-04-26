@@ -105,6 +105,12 @@ main {
     transform: translateY(101%);
     overflow-y: auto;
     transition: transform 0.3s ease-in;
+    font-weight: 900;
+    background: linear-gradient(
+        to top,
+        rgba(89, 255, 142,1),
+        rgba(255, 122, 89, 0)
+    );
 }
 
 .movie:hover .overview {
