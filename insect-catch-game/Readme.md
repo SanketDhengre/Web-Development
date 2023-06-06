@@ -4,5 +4,6 @@ Visit this project at: https://sanketdhengre.github.io/Web-Development/insect-ca
 
 ![image](https://github.com/SanketDhengre/Web-Development/assets/83276393/94031687-ed27-486d-94bb-7b48b1fb536c)
 
-![image](https://github.com/SanketDhengre/Web-Development/assets/83276393/cfd20681-fae5-4956-bbe6-a345abbc1718)
+![image](https://github.com/SanketDhengre/Web-Development/assets/83276393/51949bcf-163d-4403-a037-45594e88f626)
+
 
